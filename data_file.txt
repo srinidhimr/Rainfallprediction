@@ -1,0 +1,3 @@
+https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/
+https://psl.noaa.gov/data/gridded/data.gpcc.html
+https://psl.noaa.gov/cgi-bin/GrADS.pl?dataset=CPC+Global+Precipitation&DB_did=193&file=%2FDatasets%2Fcpc_global_precip%2Fprecip.day.ltm.nc&variable=precip&DB_vid=4235&DB_tid=59341&units=cm&longstat=Long+Term+Mean&DB_statistic=Long+Term+Mean&stat=&lat-begin=89.75S&lat-end=89.75N&lon-begin=0.25E&lon-end=359.75E&dim0=time&mon_begin=Jan&mon_end=Jan&X=lon&Y=lat&output=plot&bckgrnd=black&use_color=on&fill=lines&cint=&range1=&range2=&scale=100&submit=Create+Plot+or+Subset+of+Data
